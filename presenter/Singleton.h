@@ -14,4 +14,5 @@ public:
 	    this->shapeList.push_back(shape);
     }
 	void printInfo();
+	void remove(int index);
 };

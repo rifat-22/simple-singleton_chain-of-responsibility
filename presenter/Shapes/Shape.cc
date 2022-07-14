@@ -9,14 +9,18 @@ Shape::Shape(const std::shared_ptr<Shape>& nextShape)
 
 
 
-bool Shape::whichShape(int shapeValue)
+void Shape::whichShape(int shapeValue)
 {
 
 	std::cout << "Ended" << std::endl;
-	return true;
+	
 }
 
 void Shape::display() {
 	std::cout<<"simple display"<<std::endl;
+}
+
+void Shape::shapeRemove() {
+	std::cout<<"one shape is removed"<<std::endl;
 }
 

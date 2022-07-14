@@ -13,3 +13,9 @@ void Controller::printInfo()
 		shapeList[i]->display();
 	} 
 }
+
+void Controller::remove(int index)
+{
+	this->shapeList[index]->shapeRemove();
+	this->shapeList.erase(shapeList.begin() + index);
+}

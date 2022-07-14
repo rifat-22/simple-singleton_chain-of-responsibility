@@ -33,4 +33,9 @@ int main()
 
 	auto controller = Controller::getInstance();
 	controller->printInfo();
+
+	int index;
+	std::cout<<"which index you want to remove from shape list";
+	std::cin>>index;
+	controller->remove(index);
 }
