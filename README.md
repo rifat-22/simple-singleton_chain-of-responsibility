@@ -1,4 +1,4 @@
-# simple-singleton_chain-of-responsibil
+# simple implementation of design patterns
 
 1. 2 simple design pattern implemented in Singleton_n_CoResponsibility
 
