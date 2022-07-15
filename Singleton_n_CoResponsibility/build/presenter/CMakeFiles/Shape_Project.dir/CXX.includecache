@@ -6,26 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/rifat/code/Shape_Project/presenter/Shapes/Circle.cc
-Circle.h
-/home/rifat/code/Shape_Project/presenter/Shapes/Circle.h
-../Singleton.h
-/home/rifat/code/Shape_Project/presenter/Singleton.h
-iostream
--
-
 /home/rifat/code/Shape_Project/presenter/Shapes/Circle.h
 Shape.h
 /home/rifat/code/Shape_Project/presenter/Shapes/Shape.h
 memory
--
-
-/home/rifat/code/Shape_Project/presenter/Shapes/Rectangle.cc
-Rectangle.h
-/home/rifat/code/Shape_Project/presenter/Shapes/Rectangle.h
-../Singleton.h
-/home/rifat/code/Shape_Project/presenter/Singleton.h
-iostream
 -
 
 /home/rifat/code/Shape_Project/presenter/Shapes/Rectangle.h
@@ -36,25 +20,9 @@ memory
 vector
 -
 
-/home/rifat/code/Shape_Project/presenter/Shapes/Shape.cc
-Shape.h
-/home/rifat/code/Shape_Project/presenter/Shapes/Shape.h
-iostream
--
-vector
--
-
 /home/rifat/code/Shape_Project/presenter/Shapes/Shape.h
 memory
 -
-iostream
--
-
-/home/rifat/code/Shape_Project/presenter/Shapes/Triangle.cc
-Triangle.h
-/home/rifat/code/Shape_Project/presenter/Shapes/Triangle.h
-../Singleton.h
-/home/rifat/code/Shape_Project/presenter/Singleton.h
 iostream
 -
 
@@ -62,12 +30,6 @@ iostream
 Shape.h
 /home/rifat/code/Shape_Project/presenter/Shapes/Shape.h
 memory
--
-
-/home/rifat/code/Shape_Project/presenter/Singleton.cc
-Singleton.h
-/home/rifat/code/Shape_Project/presenter/Singleton.h
-iostream
 -
 
 /home/rifat/code/Shape_Project/presenter/Singleton.h

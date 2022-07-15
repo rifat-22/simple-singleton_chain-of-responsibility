@@ -1,0 +1,3 @@
+/home/rifat/code/Shape_project_factory/build/CMakeFiles/rebuild_cache.dir
+/home/rifat/code/Shape_project_factory/build/CMakeFiles/edit_cache.dir
+/home/rifat/code/Shape_project_factory/build/CMakeFiles/Shape_project_factory.dir
